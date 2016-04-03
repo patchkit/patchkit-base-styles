@@ -1,6 +1,6 @@
 {
   "name": "patchkit-base-styles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base styles and fonts for Patchkit",
   "main": "index.js",
   "scripts": {
